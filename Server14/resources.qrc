@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>db.db</file>
+        <file>tray.png</file>
+    </qresource>
+</RCC>
